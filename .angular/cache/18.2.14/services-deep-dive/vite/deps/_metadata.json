@@ -1,0 +1,34 @@
+{
+  "hash": "94a4a9ce",
+  "configHash": "f71e1a01",
+  "lockfileHash": "f8fbb5ce",
+  "browserHash": "59cdb88e",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "af8ce5c0",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "c049bf63",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "dc6205d0",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-NYWWGVHZ": {
+      "file": "chunk-NYWWGVHZ.js"
+    },
+    "chunk-FYTLGAJI": {
+      "file": "chunk-FYTLGAJI.js"
+    }
+  }
+}
